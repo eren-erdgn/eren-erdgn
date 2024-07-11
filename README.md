@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-Hello, my name is Eren Erdogan. I am a computer engineering student at Bahçeşehir University. I am 22 years old. I enjoy playing video games and thinking about the development process that goes into those games I love and adore. I love creating a visual experience through the projects I participate. Also, I really like the creative process which goes into those projects I have created. That’s why I have been practicing on unity game engine. My ultimate goal is to merge the experience I have been gathering doing various game development practices and my academic knowledge to eventually rise to a prominent position in the gaming industry.
+Hello, my name is Eren Erdogan. I am 22 years old. I enjoy playing video games and thinking about the development process that goes into those games I love and adore. I love creating a visual experience through the projects I participate. Also, I really like the creative process which goes into those projects I have created. That’s why I have been practicing on unity game engine. My ultimate goal is to merge the experience I have been gathering doing various game development practices and my academic knowledge to eventually rise to a prominent position in the gaming industry.
 
 *   🌍  I'm based in İstanbul Turkey
 *   ✉️  You can contact me at [eren-erdogan@outlook.com](mailto:eren-erdogan@outlook.com)
