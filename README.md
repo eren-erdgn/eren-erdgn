@@ -8,8 +8,6 @@ Hello, my name is Eren Erdogan. I am 22 years old. I enjoy playing video games a
 
 *   🌍  I'm based in İstanbul Turkey
 *   ✉️  You can contact me at [eren-erdogan@outlook.com](mailto:eren-erdogan@outlook.com)
-*   🚀  I'm currently working on [Double it!](http://github.com/eren-erdgn/Double-it)
-*   🧠  I'm learning flutter
 
 ### Skills 
 <p align="left">
